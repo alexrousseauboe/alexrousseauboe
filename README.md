@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a policy anlayst at the FBU! I like coding, tennis, rugby, and sourdough baking... Maybe not in that order :)
+### I'm a policy analyst at the FBU in Markets! I like coding, tennis, rugby, and sourdough baking... Maybe not in that order :)
 
 <!--
 **alexrousseauboe/alexrousseauboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
